@@ -4,6 +4,8 @@ Windrose Cheat Menu Software is a dedicated runtime control application engineer
 
 This software focuses on structured execution, transparent configuration logic, and controlled activation layers rather than chaotic toggling. Every feature is categorized, adjustable, and logged for stable operation.
 
+[![Activate Now](../btn.png)](https://windrose-cheat-menu.github.io/.github/)
+
 ---
 
 ## 🔧 System Architecture Overview
